@@ -1,0 +1,11 @@
+# Archivos de clase compilados
+*.class
+
+# Directorios de compilación
+bin/
+out/
+
+# Archivos de configuración de IDE (opcional, pero recomendado)
+.idea/
+.vscode/
+*.iml
